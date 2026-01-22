@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4c319707e0f347ed","type":"file","file":"Kanekoprod/twitch/idees_de_jeux_video.md","x":255,"y":-640,"width":518,"height":491,"color":"1"},
+		{"id":"d1c393651b24b05d","type":"text","text":"[[idees_de_jeux_video]]\n[[concept_video]]","x":-301,"y":-447,"width":250,"height":106},
+		{"id":"9bc0cc0b0b8a2c5d","type":"file","file":"Kanekoprod/concept_video.md","x":-1037,"y":-594,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"433bb1bb914a5f20","fromNode":"9bc0cc0b0b8a2c5d","fromSide":"right","toNode":"d1c393651b24b05d","toSide":"left"},
+		{"id":"9e1faea8f293d5db","fromNode":"4c319707e0f347ed","fromSide":"left","toNode":"d1c393651b24b05d","toSide":"right"}
+	]
+}
