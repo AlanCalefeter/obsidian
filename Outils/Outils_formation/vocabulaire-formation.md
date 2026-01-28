@@ -24,7 +24,8 @@
 	L'attaque XSS (Cross-Site Scripting) permet à un attaquant d'exécuter du code JavaScript arbitraire dans le navigateur d'un utilisateur victime. L'attaque CSRF (Cross-Site Request Forgery) permet à un attaquant d'inciter un 	utilisateur victime à effectuer des actions non désirées.
 
 - **DTO :**
-	 DTO est l'acronyme de Data Transfert Object, ou objet de transfert de données
+	 - DTO est l'acronyme de Data Transfert Object, ou objet de transfert de données
+	 - Sert à sécuriser les transfert de fichier
 
 - **DAO :**
 	Le Dessin Assisté par Ordinateur (DAO) est la discipline qui consiste à produire des dessins techniques, des schémas, des montages, des ébauches, des plans de fabrication… en utilisant différents logiciels informatiques.
@@ -97,21 +98,18 @@
 	- **Data Definition Language** (DDL) pour la structuration des données.
 	- **Data Control Language** (DCL) pour l'administration de la base de données.
 
-- **SQL (Structured Query Language)** :
-	 le langage standard pour communiquer avec les bases de données. 
-
 - **ERD (Entitée relation diagram) :** voir [[ERD modelisation du projet excalidraw]]
 
 - **trigram** (SQL) : Technique de recherche **textuelle approximative**. Elle sert à comparer des chaînes de caractères même quand elles ne sont pas exactement identiques. Utile pour la recherche, l’autocomplétions ou la correction de fautes.
 	  Un **trigramme** est une suite de **trois caractères consécutifs**. 
 
-- **DDL (Langage de Définition de Données ) :  **
+- **DDL (Langage de Définition de Données ) :**
 	- modification ou suppression d'une table SQL
 	- définir et gérer la structure des objets dans une base de données
-- **DML ( Langage de Manipulation de données ) : **
+- **DML ( Langage de Manipulation de données ) :**
 	- ajouter, modifier, supprimer dans une base de données 
 	- interagir avec les données contenues dans les tables d’une base de données, sans modifier la structure des tables elles-mêmes (ce rôle appartient au **DDL**).
-- **DCL ( Langage de Contrôle de Données ) : **
+- **DCL ( Langage de Contrôle de Données ) :**
 	- création de rôle 
 	- ne peut pas drop les table
 - **TCL ( Langage de Contrôle de Transaction )**

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad16b357ada96d9",
+        "id": "4115032eb4987991",
         "type": "tabs",
         "children": [
           {
-            "id": "c8ac8fe35f7b0113",
+            "id": "c7c2c65152062b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercice salon de l'automobile.md",
+                "file": "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercice salon de l'automobile"
-            }
-          },
-          {
-            "id": "5d77c17c596c40b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DWWM/language_informatiques/sql/3 - Les Views.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Les Views"
+              "title": "logiciel important"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 279
   },
   "right": {
     "id": "8d0b72286b3b0f20",
@@ -104,6 +89,46 @@
         "type": "tabs",
         "dimension": 46.50602409638554,
         "children": [
+          {
+            "id": "6702e6bba35bd4da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f568ca6599c437d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modèles/Note quotidienne.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Note quotidienne"
+            }
+          },
+          {
+            "id": "e41f03fac00bf79b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
           {
             "id": "50d92ba2c70870af",
             "type": "leaf",
@@ -138,21 +163,6 @@
             }
           },
           {
-            "id": "e41f03fac00bf79b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          },
-          {
             "id": "7aa64ab32c49be40",
             "type": "leaf",
             "state": {
@@ -167,21 +177,6 @@
             }
           },
           {
-            "id": "f568ca6599c437d9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Outils/Outils_formation/Présentation projet professionnel.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de Présentation projet professionnel"
-            }
-          },
-          {
             "id": "e10184150203b1df",
             "type": "leaf",
             "state": {
@@ -190,19 +185,8 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "6702e6bba35bd4da",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "f5de6f6727b22b21",
@@ -215,7 +199,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outils/Outils_formation/Présentation projet professionnel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,25 +226,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Présentation projet professionnel"
-            }
-          },
-          {
-            "id": "58b13f1a587266d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
               "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 331
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,29 +250,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5d77c17c596c40b6",
+  "active": "52b6f829cca8145c",
   "lastOpenFiles": [
+    "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
+    "Outils/Outils_formation/Sites et logiciels importants/Sites intéressants Back-End.md",
+    "DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
+    "DWWM/language_informatiques/HTML/html-03-mise_en_forme.md",
+    "DWWM/language_informatiques/HTML/html-07-les tableaux.md",
+    "DWWM/language_informatiques/HTML/html-06-medias.md",
+    "DWWM/language_informatiques/HTML/html-02-balises.md",
+    "DWWM/language_informatiques/HTML/_html_sommaire.md",
+    "DWWM/projet_1_webprojectsetup(batch_et_bash)/README.md",
+    "Outils/Outils_formation/vocabulaire-formation.md",
+    "DWWM/projet_3_Memoria/ERD modelisation du projet excalidraw.md",
+    "DWWM/projet_2_project_wisePanda(javascript)/plan de travail recommande.md",
+    "DWWM/language_informatiques/sql/exercices_sql.md",
+    "DWWM/language_informatiques/sql/3 - Les Views.md",
     "DWWM/language_informatiques/sql/2 - Les tables de jointure SQL.md",
     "DWWM/language_informatiques/sql/1 - sql.md",
-    "DWWM/language_informatiques/sql/exercices_sql.md",
-    "DWWM/language_informatiques/sql/learn_memoria/backend/03-validation-zod.md",
-    "DWWM/language_informatiques/sql/learn_memoria/backend/02-error-handling.md",
-    "DWWM/language_informatiques/sql/learn_memoria/backend/01-database-connection.md",
-    "DWWM/language_informatiques/sql/learn_memoria/logic/03-routing-logic.md",
-    "DWWM/language_informatiques/sql/learn_memoria/logic/02-architecture-mvc.md",
-    "DWWM/language_informatiques/sql/learn_memoria/logic/01-guide-poo.md",
-    "DWWM/language_informatiques/sql/learn_memoria/frontend/01-views-and-layout.md",
-    "DWWM/language_informatiques/SQL/learn_memoria/database/01-database-connection.md",
-    "DWWM/language_informatiques/SQL/learn_memoria/database/02-error-handling.md",
-    "DWWM/language_informatiques/SQL/learn_memoria/database/03-validation-zod.md",
-    "DWWM/language_informatiques/sql/learn_memoria/database/01-guide-sql.md",
+    "DWWM/language_informatiques/Javascript/snipet.md",
+    "DWWM/language_informatiques/Javascript/learn-scope.js.md",
+    "DWWM/language_informatiques/Javascript/js-11-asynchrone-promises.js.md",
+    "DWWM/language_informatiques/Javascript/js-10-intro_asynchrone.js.md",
+    "DWWM/language_informatiques/Javascript/js-06-fonctions.js.md",
+    "DWWM/language_informatiques/Javascript/_javascript_sommaire.md",
+    "DWWM/language_informatiques/HTML/html-04-les-liens.md",
+    "DWWM/language_informatiques/HTML/html-01-introduction.md",
+    "Outils/Outils_formation/projet-professionnel/projet_professionnel.md",
+    "Outils/Outils_formation/projet-professionnel/Présentation projet professionnel.md",
+    "videos/Presentation_projet_professionnel.mp4",
+    "Outils/outils-annexes",
+    "Outils/Outils_formation/projet-professionnel",
+    "images/schema-authentification-2.png",
+    "images/schema-authentification-1.png",
+    "images/postgresql-cheat-sheet-a4-1.pdf",
     "DWWM/language_informatiques/sql/learn_memoria/logic",
     "DWWM/language_informatiques/sql/learn_memoria/frontend",
     "DWWM/language_informatiques/sql/learn_memoria/database",
     "DWWM/language_informatiques/sql/learn_memoria/backend",
     "DWWM/language_informatiques/sql/learn_memoria",
-    "Outils/Outils_formation/projet_professionnel.md",
-    "DWWM/language_informatiques/SQL/Untitled Kanban.md",
     "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
     "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
     "images/projet_pro/modelisation MEMORIA.png",
@@ -309,23 +297,7 @@
     "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
     "images/projet_pro/Capture d’écran 2026-01-20 105924.png",
     "images/projet_pro/schema_nodejs.webp",
-    "images/projet_pro/Schema MVC.png",
-    "images/projet_pro/requete preparé contre injection SQL.png",
     "images/projet_pro",
-    "Outils/Outils_formation/Présentation projet professionnel.md",
-    "DWWM/language_informatiques/sql/3 - Les Views.md",
-    "Exercice salon de l'automobile.md",
-    "Nouveau document texte.txt",
-    "Nouveau dossier",
-    "videos/Presentation_projet_professionnel.mp4",
-    "videos/2026_01_16_10_18__05 - Présentation projet professionnel.mp4",
-    "Outils/Outils_formation/Stage.md",
-    "Outils/Outils_formation/vocabulaire-formation.md",
-    "Outils/_outils_sommaire.md",
-    "Outils/obsidian_documentation.md",
-    "Outils/git_note.md",
-    "DWWM/language_informatiques/HTML/html-02-balises.md",
-    "DWWM/language_informatiques/CSS/css-01-intro.md",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "Sans titre.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
