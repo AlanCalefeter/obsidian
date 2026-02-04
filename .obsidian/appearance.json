@@ -3,5 +3,6 @@
   "baseFontSize": 23,
   "baseFontSizeAction": true,
   "cssTheme": "Primary",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": "#af702c"
 }

@@ -4,8 +4,10 @@
 
 -  **Ci/CD :** 
 	Le pipeline CI/CD est une combinaison d'outils, de processus et de pratiques qui fonctionnent ensemble pour intégrer, tester et déployer en continu les changements de code en production. Il vise à raccourcir les cycles de développement, à augmenter la fréquence des releases et à améliorer la qualité du code.
+	CI => git ces projets
+	CD => déploiement
 
-- **Framework :**
+- [**Framework**](framework-back-end.md) :
 	 un ensemble de composants logiciels réutilisables qui permettent de développer de nouvelles applications plus efficacement
 
 - **Https :**
@@ -114,4 +116,8 @@
 	- ne peut pas drop les table
 - **TCL ( Langage de Contrôle de Transaction )**
 	- s'occupe de la sauvegarde des données 
-	- s'occupe des commit de transaction 
+	- s'occupe des commit de transaction
+	   
+-  **Sniffing** : Dans le domaine de la cybersécurité, le terme « sniffing » désigne l'action d'intercepter et d'enregistrer le trafic qui passe par un réseau numérique ou une partie d'un réseau.
+  
+-  **brute-force** : L'attaque par force brute, plus connu sous le terme anglais _brute force_ est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé

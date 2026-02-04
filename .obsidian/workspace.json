@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4115032eb4987991",
+        "id": "a4420ce0f09a1c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c2c65152062b3c",
+            "id": "1e28251a97216908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
+                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "logiciel important"
+              "title": "librairie-back"
             }
           }
         ]
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modèles/Note quotidienne.md",
+                "file": "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Note quotidienne"
+              "title": "Plan de logiciel important"
             }
           },
           {
@@ -199,6 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,12 +222,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6316046762907476,
+                  "scale": 0.45050811767578086,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "Graphique de librairie-back"
             }
           }
         ]
@@ -250,45 +251,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "52b6f829cca8145c",
+  "active": "1e28251a97216908",
   "lastOpenFiles": [
-    "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
-    "Outils/Outils_formation/Sites et logiciels importants/Sites intéressants Back-End.md",
-    "DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
-    "DWWM/language_informatiques/HTML/html-03-mise_en_forme.md",
-    "DWWM/language_informatiques/HTML/html-07-les tableaux.md",
-    "DWWM/language_informatiques/HTML/html-06-medias.md",
-    "DWWM/language_informatiques/HTML/html-02-balises.md",
-    "DWWM/language_informatiques/HTML/_html_sommaire.md",
-    "DWWM/projet_1_webprojectsetup(batch_et_bash)/README.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-front-end.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-front.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Front-end.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies",
     "Outils/Outils_formation/vocabulaire-formation.md",
-    "DWWM/projet_3_Memoria/ERD modelisation du projet excalidraw.md",
-    "DWWM/projet_2_project_wisePanda(javascript)/plan de travail recommande.md",
-    "DWWM/language_informatiques/sql/exercices_sql.md",
+    "Outils/Outils_formation/().md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework",
+    "Outils/Outils_formation/Sites et logiciels importants/nestjs.com.md",
+    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Commande SQL.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Authentification SSR avec express-session.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 1  La Santé des Données.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 2 . Connecter les Points (Jointures).md",
+    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet/Dictionnaire de données pour mémoria (PostgreSQL).md",
+    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet",
+    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet/architecture-du-projet.md",
     "DWWM/language_informatiques/sql/3 - Les Views.md",
     "DWWM/language_informatiques/sql/2 - Les tables de jointure SQL.md",
-    "DWWM/language_informatiques/sql/1 - sql.md",
-    "DWWM/language_informatiques/Javascript/snipet.md",
-    "DWWM/language_informatiques/Javascript/learn-scope.js.md",
-    "DWWM/language_informatiques/Javascript/js-11-asynchrone-promises.js.md",
-    "DWWM/language_informatiques/Javascript/js-10-intro_asynchrone.js.md",
-    "DWWM/language_informatiques/Javascript/js-06-fonctions.js.md",
-    "DWWM/language_informatiques/Javascript/_javascript_sommaire.md",
-    "DWWM/language_informatiques/HTML/html-04-les-liens.md",
-    "DWWM/language_informatiques/HTML/html-01-introduction.md",
-    "Outils/Outils_formation/projet-professionnel/projet_professionnel.md",
-    "Outils/Outils_formation/projet-professionnel/Présentation projet professionnel.md",
+    "DWWM/language_informatiques/sql/learn_memoria/backend/03-validation-zod.md",
+    "DWWM/projets-DWWM",
+    "Modèles/Note quotidienne.md",
+    "DWWM/language_informatiques/HTML/html-03-mise_en_forme.md",
+    "DWWM/language_informatiques/HTML/html-07-les tableaux.md",
     "videos/Presentation_projet_professionnel.mp4",
     "Outils/outils-annexes",
     "Outils/Outils_formation/projet-professionnel",
     "images/schema-authentification-2.png",
     "images/schema-authentification-1.png",
-    "images/postgresql-cheat-sheet-a4-1.pdf",
-    "DWWM/language_informatiques/sql/learn_memoria/logic",
-    "DWWM/language_informatiques/sql/learn_memoria/frontend",
-    "DWWM/language_informatiques/sql/learn_memoria/database",
-    "DWWM/language_informatiques/sql/learn_memoria/backend",
-    "DWWM/language_informatiques/sql/learn_memoria",
     "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
     "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
     "images/projet_pro/modelisation MEMORIA.png",
@@ -297,7 +299,6 @@
     "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
     "images/projet_pro/Capture d’écran 2026-01-20 105924.png",
     "images/projet_pro/schema_nodejs.webp",
-    "images/projet_pro",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "Sans titre.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
