@@ -21,4 +21,6 @@
 
 - [Docker](https://www.thenile.dev)  : Technologie de conteneurisation qui permet la création et l'utilisation de conteneurs Linux
 
+- [Laragon](https://laragon.org/docs) : Laragon est un environnement de développement. portable, isolé et puissant. Pour PHP, Node.js, Python, Go, Ruby. Pratique pour créer et gérer des applications web moderne
+
 #logiciel 
