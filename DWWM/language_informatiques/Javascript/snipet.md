@@ -113,3 +113,5 @@ const countdown = (seconds) => {
 
 countdown (10)
 ```
+
+#javascript #cours 

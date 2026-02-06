@@ -42,9 +42,9 @@ Balise facultative mais fortement conseillée (pour référencement sur moteurs 
 
 Ex. :
 
-```
+
 <img src="logo windows.jpg" alt="logo windows" title="logo windows" />
-``` ## **Positionnement et alignement**
+ ## **Positionnement et alignement**
 
 → Par défaut, l’image place la ligne de texte à présent alignée **s’il le bas de l’image**.  
 → Avec HTML5 il n’y a plus de : align / border / hspace.
@@ -57,9 +57,9 @@ Ex. :
 
 Ex. :
 
-```
+
 <img src="logo windows.jpg" width="225" height="225">
-```
+
 
 ⚠️ **Attention aux formats** (smartphones, tablettes…).
 
@@ -76,9 +76,9 @@ L’attribut **usemap** indique cette zone avec autre attribut HTML.
 `<map>` → affiche l’image → l’aire permet de nommer à `<map name="">` → préciser la destination, la forme et les points de coordonnées de la forme de zone souhaitée.  
 La destination prend en cliqué et un attribut alt (texte descriptif / alternatif).
 
-```
+
 <area> → shape et coords          (forme arrie ?)   (coordonnées de la zone)
-```
+
 
 ---
 
@@ -144,3 +144,6 @@ Si problème, ajout de type MIME : _…Attacces_ (dans tes notes).
 
 `<iframe>` → intègre une page HTML dans la page HTML courante.  
 → affiche sans rechargement une fenêtre dite “pop-up”.
+
+
+#html #cours #frontend 

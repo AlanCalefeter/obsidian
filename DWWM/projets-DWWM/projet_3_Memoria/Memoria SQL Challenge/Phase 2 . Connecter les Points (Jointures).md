@@ -87,3 +87,5 @@ Exemple : `FROM items AS i JOIN item_tags AS it ON i.id_item = it.item_id`. C'es
   
 
 **Bonne chance pour cette montée en puissance ! Une fois terminé, tu auras compris 80% du SQL nécessaire pour ton API Node.js.**
+
+#sql #exercice #cours #memoria 

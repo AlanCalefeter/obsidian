@@ -254,3 +254,5 @@ countdown(5)
 ```
 
 ---
+
+#javascript #cours 

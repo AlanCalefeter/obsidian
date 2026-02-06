@@ -1,4 +1,4 @@
-![[commands sql.png]]
+![[images/Memoria/sql/commands sql.png]]
 
 # Commande types SQL :
 

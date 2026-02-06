@@ -47,3 +47,5 @@ npm run
 
 
 [[vocabulaire-formation]]
+
+#cours #li

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4420ce0f09a1c2d",
+        "id": "5cefd8681197ce0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1e28251a97216908",
+            "id": "4af3149db8e38db9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "librairie-back"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -53,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
-                "matchingCase": false,
+                "query": "tag:#css",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 306
   },
   "right": {
     "id": "8d0b72286b3b0f20",
@@ -87,7 +83,7 @@
       {
         "id": "5dadfb99d961fbce",
         "type": "tabs",
-        "dimension": 46.50602409638554,
+        "dimension": 67.83132530120481,
         "children": [
           {
             "id": "6702e6bba35bd4da",
@@ -105,13 +101,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Outils/Outils_formation/Sites et logiciels importants/logiciel important.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de logiciel important"
+              "title": "Plan"
             }
           },
           {
@@ -185,13 +180,24 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c2dc7b9a7435aca9",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f5de6f6727b22b21",
         "type": "tabs",
-        "dimension": 53.493975903614455,
+        "dimension": 32.16867469879518,
         "children": [
           {
             "id": "17e8df9f65c9265d",
@@ -199,7 +205,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,19 +227,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.45050811767578086,
+                  "scale": 0.08317427835927539,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de librairie-back"
+              "title": "Vue graphique"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 260
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,59 +253,60 @@
       "workspaces:Gérer les espaces de travail": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1e28251a97216908",
+  "active": "4af3149db8e38db9",
   "lastOpenFiles": [
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-front-end.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-front.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 3. Agrégation et Vues Métier.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 2 . Connecter les Points (Jointures).md",
+    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 1  La Santé des Données.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
+    "DWWM/language_informatiques/sql/exercices_sql.md",
+    "DWWM/language_informatiques/sql/3 - Les Views.md",
+    "DWWM/language_informatiques/sql/2 - Les tables de jointure SQL.md",
+    "DWWM/language_informatiques/sql/1 - sql.md",
+    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
+    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/README.md",
+    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/plan de travail recommande.md",
+    "DWWM/projets-DWWM/projet_4_TCOPW/README.md",
+    "images/projet_pro/npm instal 2 2026-01-20 105745.png",
+    "images/projet_pro/memoria-schema-svg 1.png",
+    "images/projet_pro/echappement, attaque XSS.png",
+    "images/projet_pro/Capture d’écran 2026-01-20 105924.png",
+    "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
+    "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
+    "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
+    "images/postgresql-cheat-sheet-a4-1.pdf",
+    "images/schema-authentification-1.png",
+    "tags.md",
+    "images/Memoria/sql/sql-join-infographie.png",
+    "images/Memoria/sql",
+    "images/Memoria/sql/commands sql.png",
+    "images/Memoria/Looping",
+    "DWWM/language_informatiques/HTML/html-01-introduction.md",
+    "DWWM/language_informatiques/CSS/_sommaire_css.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Front-end.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-front.md",
+    "DWWM/language_informatiques/Javascript/expose_node.js_npm.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies",
     "Outils/Outils_formation/vocabulaire-formation.md",
-    "Outils/Outils_formation/().md",
+    "DWWM/language_informatiques/HTML/_html_sommaire.md",
+    "DWWM/language_informatiques/CSS/css-04-corrigés.md",
+    "DWWM/language_informatiques/CSS/css-03-exercices.md",
+    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
+    "DWWM/architecture-de-projet",
+    "Sans titre.canvas",
+    "videos/Presentation_projet_professionnel.mp4",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework",
-    "Outils/Outils_formation/Sites et logiciels importants/nestjs.com.md",
-    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Commande SQL.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Authentification SSR avec express-session.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 1  La Santé des Données.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 2 . Connecter les Points (Jointures).md",
-    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet/Dictionnaire de données pour mémoria (PostgreSQL).md",
-    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet",
-    "DWWM/projets-DWWM/projet_3_Memoria/informations-du-projet/architecture-du-projet.md",
-    "DWWM/language_informatiques/sql/3 - Les Views.md",
-    "DWWM/language_informatiques/sql/2 - Les tables de jointure SQL.md",
-    "DWWM/language_informatiques/sql/learn_memoria/backend/03-validation-zod.md",
-    "DWWM/projets-DWWM",
-    "Modèles/Note quotidienne.md",
-    "DWWM/language_informatiques/HTML/html-03-mise_en_forme.md",
-    "DWWM/language_informatiques/HTML/html-07-les tableaux.md",
-    "videos/Presentation_projet_professionnel.mp4",
-    "Outils/outils-annexes",
-    "Outils/Outils_formation/projet-professionnel",
-    "images/schema-authentification-2.png",
-    "images/schema-authentification-1.png",
-    "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
-    "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
-    "images/projet_pro/modelisation MEMORIA.png",
-    "images/projet_pro/memoria-schema-svg 1.png",
-    "images/projet_pro/commands sql.png",
-    "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
-    "images/projet_pro/Capture d’écran 2026-01-20 105924.png",
-    "images/projet_pro/schema_nodejs.webp",
     "Kanekoprod/chaine_kanekoprod.canvas",
-    "Sans titre.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
   ]
 }

@@ -79,3 +79,4 @@ const sql = `SELECT * FROM item WHERE id = ${idItem}`;
 _Dernière mise à jour : 22/01/2026_
 
 ---
+#cours #database #schema 

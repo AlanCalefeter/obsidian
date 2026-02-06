@@ -31,11 +31,6 @@ Les balises HTML sont interprétées par la plupart des navigateurs (Edge, Firef
 
 ---
 
-# 🏷️ Tags
-
-#html #html5 #web #cours
-
-
 Une balise possède un nom qui permet de décrire son contenu  
 → langage sémantique
 
@@ -99,3 +94,5 @@ Commentaires :
 -> l’internaute ne voit pas les commentaires
 -> affiché dans le code source donc → Sécurité
 -> pour voir le code source d’une page ctrl + U
+
+#html #css #cours #frontend 

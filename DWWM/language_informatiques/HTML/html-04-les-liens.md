@@ -70,3 +70,6 @@ Un attribut **id** :
 ```
 
 Pour aller vers un élément cible situé sur une autre page, on indique dans l’attribut **href** le signe # identifiant de la cible précédé du signe `/`.
+
+
+#html #cours #frontend 

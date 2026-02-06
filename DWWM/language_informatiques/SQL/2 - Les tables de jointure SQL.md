@@ -61,3 +61,5 @@ OR B.key IS NULL
 
 
 ![[sql-join-infographie.png]]
+
+#cours #sql #schema 

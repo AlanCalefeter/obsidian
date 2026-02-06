@@ -117,3 +117,5 @@ Ne cherche pas à faire des requêtes parfaites du premier coup. L'important est
   
 
 **À toi de jouer ! Une fois que tes fichiers sont créés et testés, on passera aux jointures pour lier les utilisateurs à leurs pépites.**
+
+#sql #exercice #cours #memoria 

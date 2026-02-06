@@ -744,3 +744,4 @@ CREATE TABLE email_validations (
 
 
 
+#cours #sql 

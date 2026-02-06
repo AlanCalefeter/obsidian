@@ -24,3 +24,5 @@ Décide de ce que le navigateur affiche :
 - `<u></u>` → souligne le texte
 - `<small></small>` → police + petite
 - `<big></big>` → police + grande
+
+#html #cours #frontend 

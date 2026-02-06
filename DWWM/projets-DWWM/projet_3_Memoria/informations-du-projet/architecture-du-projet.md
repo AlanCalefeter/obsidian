@@ -360,3 +360,5 @@ UserController.getProfile() → convertit en UserDTO
          ↓
 
 Vue EJS → reçoit uniquement { id, email, pseudo, role }
+
+#architecture #mvc

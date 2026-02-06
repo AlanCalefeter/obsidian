@@ -20,3 +20,5 @@ if ($result) {
   }
 }
 ```
+
+#sql #architecture #cours 

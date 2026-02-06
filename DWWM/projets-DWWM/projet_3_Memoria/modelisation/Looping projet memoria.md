@@ -34,3 +34,5 @@ Etiqueter = (#id_tag, #id_item);
 ---
 
 ![[rendu LDD.png.png]]
+
+#diagramme #schema #memoria #cours

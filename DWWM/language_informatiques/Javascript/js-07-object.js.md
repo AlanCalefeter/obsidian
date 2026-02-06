@@ -181,3 +181,4 @@ myCereal2.changeAndDisplay();
 ```
 
 
+#javascript #cours 

@@ -123,3 +123,4 @@ Les erreurs SQL (ex: mauvais format d'ID, connexion perdue) sont automatiquement
 _Dernière mise à jour : 22/01/2026_
 
 ---
+#cours #schema #database 

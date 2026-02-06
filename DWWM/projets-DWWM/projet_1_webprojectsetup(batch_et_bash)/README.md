@@ -152,6 +152,7 @@ mon-site-exemple
 
 ```
 ---
+#architecture 
 ## Prérequis
 - [Git](https://git-scm.com/)  [[git_note]]
 - [Laragon](https://laragon.org/)  
@@ -230,3 +231,5 @@ Le script te demandera le nom de ton projet et créera automatiquement tous les 
 ## Licence
 Ce projet est distribué sous licence MIT
 [LICENSE](https://github.com/anthonymorvan/Web_Project_Setup?tab=MIT-1-ov-file)
+
+#docs #architecture #schema 

@@ -79,3 +79,4 @@ displayFirstName(students);
 ```
 
 [[learn-scope.js]] 
+#javascript #cours 

@@ -363,3 +363,4 @@ maFonction().then((resultat) => console.log(resultat)); // "Hello"
  * Prochain cours : async/await pour un code encore plus lisible !
 	VOIR COURS: [[js-12-async-fetch-api.js]]
 
+#javascript #cours 

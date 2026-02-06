@@ -55,3 +55,6 @@ myFunction();
 > [!error]+ Important
 > ! Les variables déclarées avec var ont un scope de fonction et non de bloc.
 > ! Elles peuvent être accessibles en dehors du bloc dans lequel elles sont déclarées.
+
+
+#javascript #cours 

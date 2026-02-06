@@ -8,3 +8,5 @@
 # [[js-12-async-fetch-api.js]]
 # [[learn-scope.jds]]
 # [[snipet]]
+
+#javascript 

@@ -47,3 +47,5 @@ Plan de travail recommandé ( 1 semaine ) :
 - ❌ Se décourager si ça ne marche pas du premier coup
     
 - ❌ Négliger les commits réguliers
+
+#authentification #javascript #formulaire #docs 

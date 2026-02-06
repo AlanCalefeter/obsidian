@@ -542,3 +542,5 @@ getUserWithPosts(1);
  * ✅ Charger des données indépendantes (parallèle)
 
  * Vous maîtrisez maintenant l'asynchrone en JavaScript moderne ! 🎉
+
+#javascript #cours 

@@ -22,3 +22,6 @@ Entre les 2 il y a :
 
 `<form>` → **action** et **method**.  
 Autres attributs traditionnels mais facultatifs : **name**, **id**…
+
+
+#html #cours #authentification #formulaire #frontend 

@@ -85,3 +85,6 @@ Les saisies dans un formulaire peuvent s’effectuer par :
 - il est aussi possible de télécharger un fichier.
 
 L’attribut **datalist** et **output** sont HTML5.
+
+
+#html #cours #frontend 

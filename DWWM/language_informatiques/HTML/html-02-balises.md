@@ -1,8 +1,10 @@
-HTML 02 – Balises
+# HTML 02 – Balises
+
 Il existe des balises de type bloc (<h1>, <div>, <dl>, <main>…)
 ou des balises de type en ligne (<img>, <b>, <a>, <var>…)
 
 Le sectionnement :
+```html
 <header>
     <nav>
 <section>
@@ -10,3 +12,4 @@ Le sectionnement :
       <article>
 <aside>
 <footer>
+```

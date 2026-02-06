@@ -111,3 +111,5 @@ Quand tu utiliseras `JSON_AGG`, si une pépite n'a pas de tag, PostgreSQL pourra
 `COALESCE(JSON_AGG(t.tag_name) FILTER (WHERE t.tag_name IS NOT NULL), '[]')`
 
 **Prêt à transformer Memoria en une base de données professionnelle ? À toi de jouer !**
+
+#sql #exercice #cours #memoria 
