@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cefd8681197ce0f",
+        "id": "421c2f19dfa3b0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "4af3149db8e38db9",
+            "id": "663970185c932c57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "logiciel important"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -195,9 +191,19 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "97cf2bb72089c895",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
         "id": "f5de6f6727b22b21",
@@ -210,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
+                "file": "hardware/7-systeme-d'exploitation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de logiciel important"
+              "title": "Graphique de 7-systeme-d'exploitation"
             }
           }
         ]
@@ -249,6 +255,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Ouvrir la vue graphique": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "canvas:Créer une nouvelle toile": false,
@@ -260,14 +268,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af3149db8e38db9",
+  "active": "52b6f829cca8145c",
   "lastOpenFiles": [
+    "hardware/Sans titre.md",
+    "hardware/7-systeme-d'exploitation.md",
+    "hardware/fonctionnement-pc.excalidraw.md",
+    "hardware/0-composition-pc.md",
+    "Excalidraw/Sans titre.md",
+    "hardware/2-processeur.md",
+    "hardware/3-la-mémoire-vive-(RAM).md",
+    "hardware/4-disque-dur-ou-SSD.md",
+    "hardware/5-alimentation.md",
+    "hardware/6-carte-graphique.md",
+    "hardware/1-la-carte-mere.md",
+    "images/micropro.gif",
+    "hardware",
+    "Excalidraw/Drawing 2026-02-09 13.29.39.excalidraw.md",
+    "images/Image.jpg",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
+    "Excalidraw",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Front-end.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/().md",
     "tags.md",
     "git-auto.sh",
@@ -279,12 +305,6 @@
     "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
     "DWWM/language_informatiques/sql/exercices_sql.md",
     "DWWM/language_informatiques/sql/3 - Les Views.md",
-    "DWWM/language_informatiques/sql/2 - Les tables de jointure SQL.md",
-    "DWWM/language_informatiques/sql/1 - sql.md",
-    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/cahier_des_charges.md",
-    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/README.md",
-    "DWWM/projets-DWWM/projet_2_project_wisePanda(javascript)/plan de travail recommande.md",
-    "DWWM/projets-DWWM/projet_4_TCOPW/README.md",
     "images/projet_pro/npm instal 2 2026-01-20 105745.png",
     "images/projet_pro/memoria-schema-svg 1.png",
     "images/projet_pro/echappement, attaque XSS.png",
@@ -294,24 +314,13 @@
     "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
     "images/postgresql-cheat-sheet-a4-1.pdf",
     "images/schema-authentification-1.png",
-    "images/Memoria/sql/sql-join-infographie.png",
     "images/Memoria/sql",
-    "images/Memoria/sql/commands sql.png",
     "images/Memoria/Looping",
-    "DWWM/language_informatiques/HTML/html-01-introduction.md",
-    "DWWM/language_informatiques/CSS/_sommaire_css.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-front.md",
-    "DWWM/language_informatiques/Javascript/expose_node.js_npm.md",
-    "Outils/Outils_formation/vocabulaire-formation.md",
     "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
     "DWWM/architecture-de-projet",
     "Sans titre.canvas",
     "videos/Presentation_projet_professionnel.mp4",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
   ]
