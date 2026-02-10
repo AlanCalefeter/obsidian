@@ -47,14 +47,14 @@
 
 ## 🏅 Certification 80 PLUS
 
-|Certification|Rendement|Qualité|
-|---|---|---|
-|White|~80 %|Basique|
-|Bronze|~82 %|Correct|
-|Silver|~85 %|Rare|
-|Gold|~87–90 %|Recommandé ⭐|
-|Platinum|~92 %|Haut de gamme|
-|Titanium|~94 %|Extrême|
+| Certification | Rendement | Qualité       |
+| ------------- | --------- | ------------- |
+| White         | ~80 %     | Basique       |
+| Bronze        | ~82 %     | Correct       |
+| Silver        | ~85 %     | Rare          |
+| Gold          | ~87–90 %  | Recommandé ⭐  |
+| Platinum      | ~92 %     | Haut de gamme |
+| Titanium      | ~94 %     | Extrême       |
 
 ---
 

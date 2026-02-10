@@ -11,13 +11,26 @@
             "id": "663970185c932c57",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "00a9b16b988724b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "schema-deployement-github.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "schema-deployement-github.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hardware/7-systeme-d'exploitation.md",
+                "file": "schema-deployement-github.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 7-systeme-d'exploitation"
+              "title": "Graphique de schema-deployement-github.excalidraw"
             }
           }
         ]
@@ -274,21 +287,25 @@
   },
   "active": "52b6f829cca8145c",
   "lastOpenFiles": [
-    "hardware/Sans titre.md",
-    "hardware/7-systeme-d'exploitation.md",
-    "hardware/fonctionnement-pc.excalidraw.md",
-    "hardware/0-composition-pc.md",
-    "Excalidraw/Sans titre.md",
-    "hardware/2-processeur.md",
-    "hardware/3-la-mémoire-vive-(RAM).md",
-    "hardware/4-disque-dur-ou-SSD.md",
-    "hardware/5-alimentation.md",
-    "hardware/6-carte-graphique.md",
-    "hardware/1-la-carte-mere.md",
+    "Sans titre.md",
+    "schema-deployement-github.excalidraw.md",
+    "images/Image.jpg",
     "images/micropro.gif",
+    "images/postgresql-cheat-sheet-a4-1.pdf",
+    "hardware/7-systeme-d'exploitation.md",
+    "hardware/6-carte-graphique.md",
+    "Excalidraw/Drawing 2026-02-10 08.22.53.excalidraw.md",
+    "hardware/5-alimentation.md",
+    "hardware/4-disque-dur-ou-SSD.md",
+    "hardware/3-la-mémoire-vive-(RAM).md",
+    "hardware/2-processeur.md",
+    "hardware/1-la-carte-mere.md",
+    "hardware/0-composition-pc.md",
+    "hardware/Sans titre.md",
+    "hardware/fonctionnement-pc.excalidraw.md",
+    "Excalidraw/Sans titre.md",
     "hardware",
     "Excalidraw/Drawing 2026-02-09 13.29.39.excalidraw.md",
-    "images/Image.jpg",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
     "Excalidraw",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
@@ -302,9 +319,6 @@
     "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 1  La Santé des Données.md",
     "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
     "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
-    "DWWM/language_informatiques/sql/exercices_sql.md",
-    "DWWM/language_informatiques/sql/3 - Les Views.md",
     "images/projet_pro/npm instal 2 2026-01-20 105745.png",
     "images/projet_pro/memoria-schema-svg 1.png",
     "images/projet_pro/echappement, attaque XSS.png",
@@ -312,7 +326,6 @@
     "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
     "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
     "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
-    "images/postgresql-cheat-sheet-a4-1.pdf",
     "images/schema-authentification-1.png",
     "images/Memoria/sql",
     "images/Memoria/Looping",

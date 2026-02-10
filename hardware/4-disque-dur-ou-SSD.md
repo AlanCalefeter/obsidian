@@ -11,14 +11,14 @@
 
 # 📊 Tableau comparatif
 
-|Type de disque|Technologie|Vitesse moyenne|Capacité courante|Avantages|Défauts|
-|---|---|---|---|---|---|
-|**HDD**|Mécanique (plateaux)|80–160 MB/s|500 Go → 20 To|Peu cher, grandes capacités|Lent, bruyant, fragile|
-|**SSD SATA**|Mémoire flash|~550 MB/s|240 Go → 4 To|Rapide, silencieux, fiable|Plus cher que HDD|
-|**SSD NVMe (M.2)**|PCIe|3 000–7 000 MB/s|500 Go → 8 To|Ultra-rapide, idéal OS & jeux|Prix élevé, chauffe|
-|**SSD externe**|Flash + USB|400–2 000 MB/s|500 Go → 4 To|Portable, rapide|Dépend de l’USB|
-|**Clé USB**|Flash|30–400 MB/s|16 Go → 1 To|Très portable|Peu fiable, lent|
-|**Carte SD**|Flash|20–300 MB/s|32 Go → 1 To|Compacte, universelle|Fragile, vitesse variable|
+| Type de disque     | Technologie          | Vitesse moyenne  | Capacité courante | Avantages                     | Défauts                   |
+| ------------------ | -------------------- | ---------------- | ----------------- | ----------------------------- | ------------------------- |
+| **HDD**            | Mécanique (plateaux) | 80–160 MB/s      | 500 Go → 20 To    | Peu cher, grandes capacités   | Lent, bruyant, fragile    |
+| **SSD SATA**       | Mémoire flash        | ~550 MB/s        | 240 Go → 4 To     | Rapide, silencieux, fiable    | Plus cher que HDD         |
+| **SSD NVMe (M.2)** | PCIe                 | 3 000–7 000 MB/s | 500 Go → 8 To     | Ultra-rapide, idéal OS & jeux | Prix élevé, chauffe       |
+| **SSD externe**    | Flash + USB          | 400–2 000 MB/s   | 500 Go → 4 To     | Portable, rapide              | Dépend de l’USB           |
+| **Clé USB**        | Flash                | 30–400 MB/s      | 16 Go → 1 To      | Très portable                 | Peu fiable, lent          |
+| **Carte SD**       | Flash                | 20–300 MB/s      | 32 Go → 1 To      | Compacte, universelle         | Fragile, vitesse variable |
 ## 🔍 Détails rapides
 
 ### HDD
