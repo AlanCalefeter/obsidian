@@ -66,7 +66,7 @@ Genere HTML
 Layouts partials pages
 Aucune logique metier]
 
-A -->|1. Requête HTTP| B  
+A -->|1 - Requête HTTP| B  
     B -->|2 - Transmet| C  
     C -->|3 - Passe par| D  
     D -->|4 - Autorisé| E  

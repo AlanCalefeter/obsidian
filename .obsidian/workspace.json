@@ -11,26 +11,17 @@
             "id": "663970185c932c57",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "00a9b16b988724b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "schema-deployement-github.excalidraw.md"
+                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "schema-deployement-github.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sites intéressants Back-End"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "schema-deployement-github.excalidraw.md",
+                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,19 +243,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08317427835927539,
+                  "scale": 0.4505081176757804,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de schema-deployement-github.excalidraw"
+              "title": "Graphique de Sites intéressants Back-End"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,10 +276,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52b6f829cca8145c",
+  "active": "663970185c932c57",
   "lastOpenFiles": [
+    "Outils/Outils_formation/projet-professionnel/Présentation projet professionnel.md",
+    "Outils/Outils_formation/projet-professionnel/Stage.md",
+    "Outils/Outils_formation/projet-professionnel/projet_professionnel.md",
+    "Outils/Outils_formation/vocabulaire-formation.md",
+    "DWWM/architecture-de-projet/schema_memoria_architecture_en_couche.excalidraw.md",
+    "DWWM/architecture-de-projet/schema_architecture_memoria_mermaid.md",
+    "DWWM/architecture-de-projet/architecture_memoria_excalidraw.md",
+    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
+    "tags.md",
+    "DWWM/deployement/schema-deployement-github.excalidraw.md",
+    "DWWM/deployement",
     "Sans titre.md",
-    "schema-deployement-github.excalidraw.md",
     "images/Image.jpg",
     "images/micropro.gif",
     "images/postgresql-cheat-sheet-a4-1.pdf",
@@ -310,15 +311,7 @@
     "Excalidraw",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Front-end.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/().md",
-    "tags.md",
     "git-auto.sh",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 3. Agrégation et Vues Métier.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 2 . Connecter les Points (Jointures).md",
-    "DWWM/projets-DWWM/projet_3_Memoria/Memoria SQL Challenge/Phase 1  La Santé des Données.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
     "images/projet_pro/npm instal 2 2026-01-20 105745.png",
     "images/projet_pro/memoria-schema-svg 1.png",
     "images/projet_pro/echappement, attaque XSS.png",
@@ -329,11 +322,9 @@
     "images/schema-authentification-1.png",
     "images/Memoria/sql",
     "images/Memoria/Looping",
-    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
     "DWWM/architecture-de-projet",
     "Sans titre.canvas",
     "videos/Presentation_projet_professionnel.mp4",
-    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
   ]
