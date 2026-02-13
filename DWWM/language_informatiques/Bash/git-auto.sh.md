@@ -42,3 +42,5 @@ git push origin "$branch_name"
 echo "✅ Push effectué avec succès sur la branche '$branch_name'"
 
 ```
+
+#bash

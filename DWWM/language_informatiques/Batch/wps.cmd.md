@@ -8,3 +8,5 @@ call create_project.cmd) ELSE (
 echo fichier introuvable..)
 
 pause
+
+#batch 
