@@ -1,7 +1,5 @@
 
 - Forsim
-- AFPA
-- Accenture
 date de stage 
-- 14 février 
+- 16 février 
 - 24 Avril

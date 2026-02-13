@@ -6,7 +6,7 @@
 # [[js-11-asynchrone-promises.js]]
 
 # [[js-12-async-fetch-api.js]]
-# [[learn-scope.jds]]
+# [[learn-scope.js]]
 # [[snipet]]
 
 #javascript 

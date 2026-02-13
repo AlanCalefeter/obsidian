@@ -3,7 +3,7 @@
 ::Lis le chemin actuel
 	echo %cd%
 
-::affecte a une variable chemin la reponse à une question
+::affecte a une variable chemin la réponse à une question
 	set /p chemin=Choisissez le chemin pour votre dossier 
 
 ::si le chemin donné est valide, se positionner dessus et dire qu'on est dessus 

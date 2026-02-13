@@ -25,4 +25,10 @@
 
 - [plantuml]([https://www.thenile.dev](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003)) :  création diagramme UML 
 
+## hébergement
+
+[railway](https://railway.com/?referralCode=fZIRHs&gad_source=1&gad_campaignid=23516255646&gclid=CjwKCAiAkbbMBhB2EiwANbxtbZ8q5tsMRb0HbxvdJ-n7uFnsrGZVuDrPxRyh7JrEQsTYtZlPUpz3MxoCvl4QAvD_BwE) : Railway est une plateforme de déploiement et d'hébergement permettant aux utilisateurs de provisionner une infrastructure, de développer localement avec cette infrastructure, puis de déployer sur le cloud ('+rapide +simple)
+
+[render](https://render.com/) : hebergeur plus proche d'un mini heroku idéal pour les déploiement sur long terme ou pour les mini entreprise 
+
 #site 

@@ -1,0 +1,11 @@
+- Pas noté si on fait plus d'heure
+- suivre la nomenclature chaque semaine et faire signer la fiche de présence
+![[Pasted image 20260213091046.png]]
+- Faire du fullStack (demander à El Habib si les projets donné son bien pour l'examen)
+- Noter tout ce qui est dit en stage + Résumer de la journée (carnet de bord)
+- Demander si on peut prendre des screenshot des bout de code et de l'ui 
+- Ne pas attendre la fin du stage pour écrire le rapport, faire le plan :
+	- tableaux des competences 
+	- titres 
+	- mise en forme général
+- Dossier rose à faire

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+                "file": "DWWM/language_informatiques/Batch/creat_project.cmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sites intéressants Back-End"
+              "title": "creat_project.cmd"
+            }
+          },
+          {
+            "id": "ace0ddf4f8a0867b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DWWM/deployement/2026-02-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-12"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#css",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 391
   },
   "right": {
     "id": "8d0b72286b3b0f20",
@@ -207,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "f5de6f6727b22b21",
@@ -220,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+                "file": "DWWM/language_informatiques/Batch/creat_project.cmd.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,14 +262,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Sites intéressants Back-End"
+              "title": "Graphique de creat_project.cmd"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,53 +292,53 @@
   },
   "active": "663970185c932c57",
   "lastOpenFiles": [
-    "Outils/Outils_formation/projet-professionnel/Présentation projet professionnel.md",
-    "Outils/Outils_formation/projet-professionnel/Stage.md",
-    "Outils/Outils_formation/projet-professionnel/projet_professionnel.md",
-    "Outils/Outils_formation/vocabulaire-formation.md",
-    "DWWM/architecture-de-projet/schema_memoria_architecture_en_couche.excalidraw.md",
-    "DWWM/architecture-de-projet/schema_architecture_memoria_mermaid.md",
-    "DWWM/architecture-de-projet/architecture_memoria_excalidraw.md",
-    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
-    "tags.md",
-    "DWWM/deployement/schema-deployement-github.excalidraw.md",
-    "DWWM/deployement",
-    "Sans titre.md",
-    "images/Image.jpg",
-    "images/micropro.gif",
-    "images/postgresql-cheat-sheet-a4-1.pdf",
-    "hardware/7-systeme-d'exploitation.md",
-    "hardware/6-carte-graphique.md",
-    "Excalidraw/Drawing 2026-02-10 08.22.53.excalidraw.md",
-    "hardware/5-alimentation.md",
-    "hardware/4-disque-dur-ou-SSD.md",
-    "hardware/3-la-mémoire-vive-(RAM).md",
-    "hardware/2-processeur.md",
-    "hardware/1-la-carte-mere.md",
-    "hardware/0-composition-pc.md",
-    "hardware/Sans titre.md",
-    "hardware/fonctionnement-pc.excalidraw.md",
-    "Excalidraw/Sans titre.md",
-    "hardware",
-    "Excalidraw/Drawing 2026-02-09 13.29.39.excalidraw.md",
+    "DWWM/language_informatiques/Batch/wps.cmd.md",
+    "DWWM/language_informatiques/Bash/Creat_project.sh.md",
+    "DWWM/language_informatiques/Bash/wps.sh.md",
+    "DWWM/language_informatiques/Bash/git-auto.sh.md",
+    "DWWM/language_informatiques/Batch/projetScript(batch).md",
+    "DWWM/language_informatiques/Batch/creat_project.cmd.md",
+    "DWWM/_projet-professionnel/Stage.md",
+    "DWWM/_projet-professionnel/projet_professionnel.md",
+    "DWWM/_projet-professionnel/Présentation projet professionnel.md",
+    "DWWM/_projet-professionnel/fiche de presence.md",
+    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/README.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites importants.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-front-end.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/librairies/librairie-back.md",
-    "Excalidraw",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/logiciels/logiciel important.md",
+    "DWWM/deployement/2026-02-12.md",
+    "DWWM/deployement/schema-deployement-github.excalidraw.md",
+    "2026-02-11.md",
+    "DWWM/architecture-de-projet/schema_memoria_architecture_en_couche.excalidraw.md",
+    "images/Memoria/Looping/rendu LDD.png.png",
+    "images/Memoria/Looping/Looping_memoria_UML.png",
+    "images/Memoria/Looping/Looping_memoria_MLD.png",
+    "images/Memoria/Looping/Looping_memoria_EA.png",
+    "images/Memoria/Looping/Exercice looping tableau.png",
+    "images/Memoria/sql/sql-join-infographie.png",
+    "images/Memoria/sql/commands sql.png",
+    "images/Memoria/connexion a la database.png",
+    "images/Memoria/modelisation MEMORIA.png",
+    "images/projet_pro/modelisation MEMORIA.png",
+    "images/postgresql-cheat-sheet-a4-1.pdf",
+    "projet_jeux_video/jeux_video_javascript/collisions.md",
+    "DWWM/projet_pro",
+    "projet_jeux_video/jeux_video_javascript",
+    "projet_jeux_video",
+    "Outils/outils-annexes/git_note.md",
+    "_script",
+    "2026-02-12.md",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Front-end.md",
+    "Sans titre.md",
+    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
+    "DWWM/deployement",
+    "hardware",
+    "Excalidraw",
     "git-auto.sh",
-    "images/projet_pro/npm instal 2 2026-01-20 105745.png",
-    "images/projet_pro/memoria-schema-svg 1.png",
-    "images/projet_pro/echappement, attaque XSS.png",
-    "images/projet_pro/Capture d’écran 2026-01-20 105924.png",
-    "images/projet_pro/Capture d’écran 2026-01-22 091302.png",
-    "images/projet_pro/Capture d’écran 2026-01-14 152613.png",
-    "images/projet_pro/Capture d’écran 2026-01-14 103301.png",
-    "images/schema-authentification-1.png",
-    "images/Memoria/sql",
-    "images/Memoria/Looping",
-    "DWWM/architecture-de-projet",
     "Sans titre.canvas",
-    "videos/Presentation_projet_professionnel.mp4",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
   ]
