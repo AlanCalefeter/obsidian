@@ -121,3 +121,12 @@
 -  **Sniffing** : Dans le domaine de la cybersécurité, le terme « sniffing » désigne l'action d'intercepter et d'enregistrer le trafic qui passe par un réseau numérique ou une partie d'un réseau.
   
 -  **brute-force** : L'attaque par force brute, plus connu sous le terme anglais _brute force_ est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé
+
+- **Variable d'environnement** : Information stockée par le système d’exploitation et accessible aux programmes pendant leur exécution. Elle permet de configurer le comportement d’une application sans modifier son code
+	-  Exemple simple, on peut stocker :
+		- Un chemin → `PATH`
+		- Un mode d’exécution → `NODE_ENV=development`
+		- Une clé secrète → `API_KEY=abc123`
+		- Les identifiants d’une base de données → `DB_HOST`, `DB_USER`, etc.
+
+- **DLL** : Fichier contenant du code et des données réutilisables qui peuvent être utilisés par plusieurs programmes en même temps. Elle permet aux développeurs d'écrire un code modulaire et efficace et de partager les ressources entre différentes applications.
