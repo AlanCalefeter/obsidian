@@ -130,3 +130,5 @@
 		- Les identifiants d’une base de données → `DB_HOST`, `DB_USER`, etc.
 
 - **DLL** : Fichier contenant du code et des données réutilisables qui peuvent être utilisés par plusieurs programmes en même temps. Elle permet aux développeurs d'écrire un code modulaire et efficace et de partager les ressources entre différentes applications.
+
+- [WPF]() : Windows Présentation Foundation (WPF) (nom de code Avalon) est la *spécification graphique de Microsoft .* NET 3.0. Il intègre le langage descriptif *XAML* qui permet de l'utiliser d'une manière *proche d'une page HTML* pour les développeurs.

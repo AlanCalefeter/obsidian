@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "80b3a4b07d521ca7",
+        "id": "649f464683c30885",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba5dc86367a73ad",
+            "id": "890cd8284819ac08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal_de_bord_stage_forsim/jours/2026-02-16.md",
+                "file": "journal_de_bord_stage_forsim/jours/2026-02-17/2026-02-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-16"
+              "title": "2026-02-17"
             }
           },
           {
-            "id": "5c13c369d32eef41",
+            "id": "c7501dbf1ad536e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DWWM/language_informatiques/Batch/git-auto.cmd.md",
+                "file": "journal_de_bord_stage_forsim/jours/2026-02-17/2026-02-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-auto.cmd"
+              "title": "2026-02-17"
             }
           }
         ],
@@ -71,7 +71,7 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -292,37 +292,43 @@
       "daily-notes:Ouvrir la note quotidienne": false
     }
   },
-  "active": "5c13c369d32eef41",
+  "active": "c7501dbf1ad536e1",
   "lastOpenFiles": [
-    "DWWM/language_informatiques/Batch/wps.cmd.md",
+    "DWWM/architecture-de-projet/mvc_fonctionnement.jpg",
+    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
+    "journal_de_bord_stage_forsim/jours/2026-02-17/2026-02-17.md",
+    "Outils/Outils_formation/vocabulaire-formation.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-17/POO.excalidraw.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-16/2026-02-16.md",
+    "journal_de_bord_stage_forsim/modelisation_du_projet/excalidraw/Drawing 2026-02-16 13.08.55.excalidraw.md",
+    "journal_de_bord_stage_forsim/modelisation_du_projet/excalidraw",
+    "journal_de_bord_stage_forsim/modelisation_du_projet",
+    "journal_de_bord_stage_forsim/docs/_structure journalière.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-16",
+    "journal_de_bord_stage_forsim/docs/decoupage-projet.md",
+    "journal_de_bord_stage_forsim/docs",
+    "journal_de_bord_stage_forsim/jours/2026-02-17",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+    "DWWM/deployement/schema-deployement-github.excalidraw.md",
+    "DWWM/architecture-de-projet/schema_memoria_architecture_en_couche.excalidraw.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites importants.md",
+    "DWWM/projets-DWWM/projet_3_Memoria/learn_memoria/logic/03-routing-logic.md",
     "DWWM/language_informatiques/Batch/git-auto.cmd.md",
+    "DWWM/language_informatiques/Batch/wps.cmd.md",
     "DWWM/language_informatiques/Batch/projetScript(batch).md",
     "DWWM/language_informatiques/Batch/creat_project.cmd.md",
     "DWWM/language_informatiques/Bash/git-auto.sh.md",
     "DWWM/language_informatiques/Bash/Creat_project.sh.md",
     "DWWM/language_informatiques/Bash/wps.sh.md",
-    "journal_de_bord_stage_forsim/jours/_structure journalière.md",
-    "journal_de_bord_stage_forsim/jours/2026-02-17.md",
-    "journal_de_bord_stage_forsim/jours/2026-02-16.md",
-    "journal_de_bord_stage_forsim/regles_de_codage.md",
-    "journal_de_bord_stage_forsim/Drawing 2026-02-16 13.08.55.excalidraw.md",
+    "journal_de_bord_stage_forsim/docs/regles_de_codage.md",
     "journal_de_bord_stage_forsim/jours",
     "Sans titre.canvas",
     "DWWM/architecture-de-projet/cours_architecture.md",
-    "Outils/Outils_formation/vocabulaire-formation.md",
-    "journal_de_bord_stage_forsim/decoupage-projet.md",
     "DWWM/_projet-professionnel/fiche de presence.md",
     "DWWM/projets-DWWM/projet_3_Memoria/learn_memoria/logic/01-guide-poo.md",
     "DWWM/_projet-professionnel/projet_professionnel.md",
     "DWWM/_projet-professionnel/Présentation projet professionnel.md",
-    "DWWM/_projet-professionnel/Stage.md",
-    "DWWM/architecture-de-projet/schema_memoria_architecture_en_couche.excalidraw.md",
-    "DWWM/deployement/schema-deployement-github.excalidraw.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
     "images/Memoria/modelisation MEMORIA.png",
-    "DWWM/projets-DWWM/projet_3_Memoria/Commande SQL.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
-    "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
     "journal_de_bord_stage_forsim",
     "videos/Presentation_projet_professionnel.mp4",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_accueil.png",
@@ -334,13 +340,6 @@
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_formation.png",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_accueil_et_telephone.png",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_screen.png",
-    "DWWM/projets-DWWM/projet_0_site_afpa",
-    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/capture-ecran-bash/Capture0-bash.png",
-    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/capture-ecran-batch",
-    "DWWM/projets-DWWM/projet_1_webprojectsetup(batch_et_bash)/capture-ecran-bash",
-    "images/postgresql-cheat-sheet-a4-1.pdf",
-    "DWWM/projet_pro",
-    "projet_jeux_video/jeux_video_javascript",
     "Kanekoprod/chaine_kanekoprod.canvas",
     "DWWM/language_informatiques/HTML/Sans titre.canvas"
   ]
