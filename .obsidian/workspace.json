@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal_de_bord_stage_forsim/jours/2026-02-17.md",
+                "file": "DWWM/language_informatiques/Batch/git-auto.cmd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-17"
+              "title": "git-auto.cmd"
             }
           }
         ],
@@ -294,9 +294,16 @@
   },
   "active": "5c13c369d32eef41",
   "lastOpenFiles": [
-    "journal_de_bord_stage_forsim/jours/2026-02-16.md",
+    "DWWM/language_informatiques/Batch/wps.cmd.md",
+    "DWWM/language_informatiques/Batch/git-auto.cmd.md",
+    "DWWM/language_informatiques/Batch/projetScript(batch).md",
+    "DWWM/language_informatiques/Batch/creat_project.cmd.md",
+    "DWWM/language_informatiques/Bash/git-auto.sh.md",
+    "DWWM/language_informatiques/Bash/Creat_project.sh.md",
+    "DWWM/language_informatiques/Bash/wps.sh.md",
     "journal_de_bord_stage_forsim/jours/_structure journalière.md",
     "journal_de_bord_stage_forsim/jours/2026-02-17.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-16.md",
     "journal_de_bord_stage_forsim/regles_de_codage.md",
     "journal_de_bord_stage_forsim/Drawing 2026-02-16 13.08.55.excalidraw.md",
     "journal_de_bord_stage_forsim/jours",
@@ -316,14 +323,7 @@
     "DWWM/projets-DWWM/projet_3_Memoria/Commande SQL.md",
     "DWWM/projets-DWWM/projet_3_Memoria/modelisation/Looping projet memoria.md",
     "DWWM/projets-DWWM/projet_3_Memoria/modelisation/exercice tableau modélisation.md",
-    "Outils/outils-annexes/obsidian_documentation.md",
-    "Outils/outils-annexes/git_note.md",
-    "Outils/outils-annexes/_outils_sommaire.md",
-    "DWWM/deployement/2026-02-11.md",
-    "journal_de_bord/Sans titre.md",
     "journal_de_bord_stage_forsim",
-    "DWWM/deployement/deploiement_avec_gitHub.md",
-    "hardware/0-composition-pc.md",
     "videos/Presentation_projet_professionnel.mp4",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_accueil.png",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa",
