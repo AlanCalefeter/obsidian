@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "649f464683c30885",
+        "id": "b295ae81b2394511",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "3d10709670b26fa0",
+=======
+            "id": "95cc60841e6129d6",
+>>>>>>> 706cd06 (mise à jour)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DWWM/projets-DWWM/projet_3_Memoria/modelisation/ERD modelisation du projet excalidraw.md",
+=======
+                "file": "journal_de_bord_stage_forsim/jours/2026-02-25/2026-02-25.md",
+>>>>>>> 706cd06 (mise à jour)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "ERD modelisation du projet excalidraw"
             }
           },
           {
             "id": "d27d032ac35451ef",
+=======
+              "title": "2026-02-25"
+            }
+          },
+          {
+            "id": "a6fae7cb6f3f7d0d",
+>>>>>>> 706cd06 (mise à jour)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Outils/Outils_formation/vocabulaire-formation.md",
+=======
+                "file": "DWWM/language_informatiques/Csharp/api-minimale.md",
+>>>>>>> 706cd06 (mise à jour)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "vocabulaire-formation"
+=======
+              "title": "api-minimale"
+>>>>>>> 706cd06 (mise à jour)
             }
           }
         ],
@@ -93,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 420
   },
   "right": {
     "id": "8d0b72286b3b0f20",
@@ -292,6 +316,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "d27d032ac35451ef",
   "lastOpenFiles": [
     "images/Memoria/modelisation MEMORIA.png",
@@ -332,6 +357,49 @@
     "journal_de_bord_stage_forsim/jours/2026-02-16",
     "journal_de_bord_stage_forsim/docs",
     "Outils/Outils_formation/frameworks-logiciels-sites-librairies/sites importants/Sites intéressants Back-End.md",
+=======
+  "active": "a6fae7cb6f3f7d0d",
+  "lastOpenFiles": [
+    "journal_de_bord_stage_forsim/jours/2026-02-25/2026-02-25.md",
+    "DWWM/language_informatiques/Csharp/api-minimale.md",
+    "DWWM/_projet-professionnel/fiche de presence.md",
+    "DWWM/_projet-professionnel/Présentation projet professionnel.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-20/2026-02-20.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-23/2026-02-23.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-24/2026-02-24.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-16/2026-02-16.md",
+    "journal_de_bord_stage_forsim/docs/_structure journalière.md",
+    "journal_de_bord_stage_forsim/docs/image",
+    "journal_de_bord_stage_forsim/jours/2026-02-25",
+    "Outils/outils-annexes/obsidian_documentation.md",
+    "coucou.md",
+    "tags.md",
+    "journal_de_bord_stage_forsim/jours/2026-02-20/Salut.md",
+    "Outils/Outils_formation/vocabulaire-formation.md",
+    "Outils/Outils_formation/frameworks-logiciels-sites-librairies/framework/framework-back-end.md",
+    "journal_de_bord_stage_forsim/docs/decoupage-projet.md",
+    "Excalidraw/Drawing 2026-02-24 17.46.00.excalidraw.md",
+    "DWWM/language_informatiques/HTML/html-02-balises.md",
+    "Excalidraw",
+    "DWWM/language_informatiques/HTML/_html_sommaire.md",
+    "DWWM/language_informatiques/CSS/css-04-corrigés.md",
+    "DWWM/language_informatiques/CSS/css-03-exercices.md",
+    "DWWM/language_informatiques/CSS/css-02-proprietes.md",
+    "DWWM/language_informatiques/CSS/css-01-cours.md",
+    "DWWM/language_informatiques/CSS/_sommaire_css.md",
+    "DWWM/language_informatiques/Csharp/WPF.md",
+    "DWWM/language_informatiques/Bash/wps.sh.md",
+    "DWWM/architecture-de-projet/Guide_Conceptuel _  Architecture_Backend_Moderne_2026.pdf",
+    "DWWM/architecture-de-projet/mvc_fonctionnement.jpg",
+    "journal_de_bord_stage_forsim/jours/2026-02-24",
+    "images/Memoria/modelisation MEMORIA.png",
+    "journal_de_bord_stage_forsim/jours/Untitled.canvas",
+    "journal_de_bord_stage_forsim/jours/2026-02-23",
+    "DWWM/language_informatiques/Csharp",
+    "journal_de_bord_stage_forsim/jours/2026-02-20",
+    "journal_de_bord_stage_forsim/jours/2026-02-19",
+    "journal_de_bord_stage_forsim/jours/2026-02-18",
+>>>>>>> 706cd06 (mise à jour)
     "Sans titre.canvas",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_accueil.png",
     "DWWM/projets-DWWM/projet_0_site_afpa/images_afpa/figma_page_temoignage_et_telephone.png",

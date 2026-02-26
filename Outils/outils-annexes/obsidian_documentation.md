@@ -52,10 +52,10 @@ Créer des tableaux est l'une des extensions les plus courantes :
 | Li    | 30  | Designer  |
 ```
 
-| Nom   | Âge | Profession |
-| ----- | --- | ---------- |
-| Zhang | 25  | Ingénieur  |
-| Li    | 30  | Designer   |
+| Nom   | Âge | Profession |     |
+| ----- | --- | ---------- | --- |
+| Zhang | 25  | Ingénieur  |     |
+| Li    | 30  | Designer   |     |
 
 ## Blocs de code délimités
 

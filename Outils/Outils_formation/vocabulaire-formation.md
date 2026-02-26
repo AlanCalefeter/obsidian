@@ -1,5 +1,6 @@
 
 # **Vocabulaire formation** : 
+<<<<<<< HEAD
 
 
 - **APi :**
@@ -76,8 +77,14 @@
 
 - **Versionning :**
 	Le versioning est l'enregistrement de chaque modification apportée à un ou plusieurs fichiers. Il joue un rôle crucial dans la gestion des projets, en particulier dans les domaines du développement logiciel et du design 	numérique.
+=======
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ A _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+>>>>>>> 706cd06 (mise à jour)
 
 
+<<<<<<< HEAD
 - **RGPD :**
 	Le règlement général sur la protection des données (RGPD) est un texte réglementaire européen qui harmonise les règles de traitement des données à caractère personnel dans toute l'Union européenne.
 
@@ -117,21 +124,65 @@
 
 - **SGBD (Système de gestion de base de données) :** 
 	 Un système de gestion de base de données est un logiciel système servant à stocker, à manipuler ou gérer, et à partager des données dans une base de données, en garantissant la qualité, la pérennité et la confidentialité des informations, tout en cachant la complexité des opérations.
+=======
+- **Application Web** : 
+	- Une application Web est un logiciel qui s'exécute dans votre navigateur Web. Les entreprises doivent échanger des informations et fournir des services à distance. Elles utilisent des applications Web pour se connecter aux clients de manière pratique et sécurisée.
+
+- **Attaque XSS et CSRF :**
+	L'attaque XSS (Cross-Site Scripting) permet à un attaquant d'exécuter du code JavaScript arbitraire dans le navigateur d'un utilisateur victime. L'attaque CSRF (Cross-Site Request Forgery) permet à un attaquant d'inciter un 	utilisateur victime à effectuer des actions non désirées.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ B _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+- **Back end :**
+	Parfois appelé côté serveur, le backend de votre application gère les fonctionnalités générales de votre 	application Web. Lorsque votre utilisateur interagit avec le frontend, l'interaction envoie une demande au backend au format  HTTP. Le backend traite la demande et renvoie une réponse.
+
+-  **brute-force** : 
+	L'attaque par force brute, plus connu sous le terme anglais _brute force_ est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ C _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+-  **Ci/CD :** 
+	Le pipeline CI/CD est une combinaison d'outils, de processus et de pratiques qui fonctionnent ensemble pour intégrer, tester et déployer en continu les changements de code en production. Il vise à raccourcir les cycles de développement, à augmenter la fréquence des releases et à améliorer la qualité du code.
+	CI => git ces projets
+	CD => déploiement
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ D _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+---
+- **DAO :**
+	Le Dessin Assisté par Ordinateur (DAO) est la discipline qui consiste à produire des dessins techniques, des schémas, des montages, des ébauches, des plans de fabrication… en utilisant différents logiciels informatiques.
+>>>>>>> 706cd06 (mise à jour)
 
 
+<<<<<<< HEAD
 
 
 
 - **trigram** (SQL) : Technique de recherche **textuelle approximative**. Elle sert à comparer des chaînes de caractères même quand elles ne sont pas exactement identiques. Utile pour la recherche, l’autocomplétions ou la correction de fautes.
 	  Un **trigramme** est une suite de **trois caractères consécutifs**. 
+=======
+- **Data base :**
+	Une base de données est un ensemble d'informations qui est organisé de manière à être facilement accessible, géré et mis à jour. Elle est utilisée par les organisations comme méthode de stockage, de gestion et de 	récupération de l'informations.
+>>>>>>> 706cd06 (mise à jour)
 
 - **DDL (Langage de Définition de Données ) :**
 	- modification ou suppression d'une table SQL
 	- définir et gérer la structure des objets dans une base de données
+<<<<<<< HEAD
+=======
+
+- **DCL ( Langage de Contrôle de Données ) :**
+	- création de rôle 
+	- ne peut pas drop les table
+
+- **DLL** : 
+	Fichier contenant du code et des données réutilisables qui peuvent être utilisés par plusieurs programmes en même temps. Elle permet aux développeurs d'écrire un code modulaire et efficace et de partager les ressources entre différentes applications.
+
+>>>>>>> 706cd06 (mise à jour)
 - **DML ( Langage de Manipulation de données ) :**
 	- ajouter, modifier, supprimer dans une base de données 
 	- interagir avec les données contenues dans les tables d’une base de données, sans modifier la structure des tables elles-mêmes (ce rôle appartient au **DDL**).
 
+<<<<<<< HEAD
 - **TCL ( Langage de Contrôle de Transaction )**
 	- s'occupe de la sauvegarde des données 
 	- s'occupe des commit de transaction
@@ -140,6 +191,134 @@
 	Dans le domaine de la cybersécurité, le terme « sniffing » désigne l'action d'intercepter et d'enregistrer le trafic qui passe par un réseau numérique ou une partie d'un réseau.
   
 
+=======
+- **Doctrine ORM :**
+	**Doctrine est un ORM (couche d'abstraction à la base de données) pour PHP**. Il s'agit d'un logiciel libre sous licence GNU LGPL. Doctrine est l'ORM par défaut du Framework Symfony (depuis la version 1.3 de ce Framework). Cependant, son utilisation dans le cadre d'un projet développé avec Symfony est optionnelle.
+
+
+- **DOM (Document d'Objet Model)** :
+	le **Document Object Model** est la représentation interne d’une page web sous forme d’objets organisés en arbre. Chaque élément — un `<div>`,un `<p>` , une image, un texte — devient un nœud de cet arbre.
+	Ton JavaScript ne parle pas directement au code HTML brut. Il parle au DOM, qui lui sert d’interprète énergique.
+
+- **DTO :**
+	 - DTO est l'acronyme de Data Transfert Object, ou objet de transfert de données
+	 - Sert à sécuriser les transfert de fichier
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ E _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+- **ERD (Entité relation Diagram) :** voir [[ERD modelisation du projet excalidraw]]
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ F _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+---
+
+
+- [**Framework**](framework-back-end.md) :
+	 un ensemble de composants logiciels réutilisables qui permettent de développer de nouvelles applications plus efficacement
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ H _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **Https :**
+	Le protocole HTTPS (Hyper Text Transfer Protocol Secure) est une extension sécurisée du protocole HTTP, le 	« S » pour « Secured » (sécurisé) signifie que les données échangées entre le navigateur de l'internaute et le 	site web sont chiffrées et ne peuvent en aucun cas être espionnées
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ I _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **injection SQL :**
+	 est un groupe de méthodes d'exploitation de faille de sécurité d'une application interagissant avec une base de données.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ J _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **JSON : ("JavaScript Object Notation") :**
+	format texte permettant de stocker et d'échanger des données de manière lisible par l'utilisateur et analysable par la machine.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ F _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+- **Front end :**
+	l'interface utilisateur graphique (GUI) avec laquelle vos utilisateurs peuvent interagir directement, telle que les menus de navigation, les éléments de conception, les boutons, les images et les graphiques.
+
+- **Full-Stack :**
+	Les développeurs full-stack sont capables de gérer de nombreux aspects d'un projet, de la conception de l'interface utilisateur à la création de scripts côté serveur en passant par la gestion de bases de données.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ L _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+- **Logique métier :**
+	-La **logique métier** est un élément très important dans la construction d'une application web ou mobile. Elle permet aux développeurs de décrire les règles et les processus qui régissent les opérations quotidiennes de l'application, telles que la gestion des utilisateurs, la sécurité et les transactions financières.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ M _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **MEAN :**
+	MEAN est utilisé par plusieurs entreprises de développement d'applications Web, et signifie précisément "**MongoDB Express.** **js AngularJS Node.** **js"**. MEAN est une application entièrement écrite sur des technologies JavaScript.
+
+- **MERN :**	
+	MERN est une pile technologique prédéfinie basée sur JavaScript. MERN est l'acronyme de MongoDB, Express, React et Node, les quatre technologies sur lesquelles elle repose. Express et Node constituent le niveau 	intermédiaire (application)
+
+- **monothread** :
+	Monothread. Le monothread signifie que **le programme exécute les tâches l'une après l'autre**. Une seule instruction est exécutée à un moment donné, tandis que les autres instructions attendent leur tour.
+
+- **MVC :**
+	MVC (Model-View-Controller ou **Modèle-Vue-Contrôleur**) est un modèle dans la conception de logiciels. Il met l'accent sur la séparation entre la logique métier et l'affichage du logiciel. Cette «séparation des préoccupations» permet une meilleure répartition du travail et une maintenance améliorée.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ N _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **NGINX** : 
+	NGINX est un serveur web et un *reverse proxy* très performant, conçu pour gérer un grand nombre de connexions simultanées avec peu de ressources. Il est largement utilisé pour héberger des sites web modernes, des API et des applications à fort trafic.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ P _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+---
+- **Proxy** : 
+	Un proxy est un outil central dans l’architecture réseau moderne :
+	- Forward proxy → protège le client
+	- Reverse proxy → protège le serveur
+	- Peut accélérer, sécuriser et répartir le trafic
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ R _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **RGPD :**
+	Le règlement général sur la protection des données (RGPD) est un texte réglementaire européen qui harmonise les règles de traitement des données à caractère personnel dans toute l'Union européenne.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ S _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **SEO :**
+	Le SEO (Search Engine Optimization) signifie « **optimisation pour les moteurs de recherche** » en français. Cette discipline englobe un ensemble de techniques visant à améliorer la visibilité d'un site web dans les résultats naturels des moteurs de recherche comme Google, sans passer par la publicité payante.
+
+- **SGBD (Système de gestion de base de données) :** 
+	 Un système de gestion de base de données est un logiciel système servant à stocker, à manipuler ou gérer, et à partager des données dans une base de données, en garantissant la qualité, la pérennité et la confidentialité des informations, tout en cachant la complexité des opérations.
+
+- **Site web :**
+	Un site web est un ensemble de pages web interconnectées, comprenant du contenu multimédia, généralement 	identifié par un nom de domaine commun et accessible via un navigateur web. Les sites web sont hébergés sur 	des serveurs et accessibles via Internet à l'aide d'une URL (Uniform Resource Locator).
+
+-  **Sniffing** : 
+	Dans le domaine de la cybersécurité, le terme « sniffing » désigne l'action d'intercepter et d'enregistrer le trafic qui passe par un réseau numérique ou une partie d'un réseau.
+  
+- **SQL :**
+	Le langage SQL (Structured Query Language) est un **langage de requête populaire fréquemment utilisé dans tous les types d'applications**. Les analystes de données et les développeurs apprennent et utilisent le langage SQL, car il s'intègre parfaitement aux différents langages de programmation.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ T _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **TCL ( Langage de Contrôle de Transaction )**
+	- s'occupe de la sauvegarde des données 
+	- s'occupe des commit de transaction
+
+- **trigram** (SQL) :
+	Technique de recherche **textuelle approximative**. Elle sert à comparer des chaînes de caractères même quand elles ne sont pas exactement identiques. Utile pour la recherche, l’autocomplétions ou la correction de fautes.
+	  Un **trigramme** est une suite de **trois caractères consécutifs**. 
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ U _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+-  **UUID (Universally Unique Identifier)** :
+	Un UUID est représenté sous forme de chaîne de 36 caractères, divisée en cinq groupes séparés par des tirets (par exemple : _123e4567-e89b-12d3-a456-426655440000_). Il est généré à l'aide d'algorithmes qui intègrent des éléments comme des horodatages, des adresses MAC ou des nombres aléatoires, selon la version utilisée.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ V _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+>>>>>>> 706cd06 (mise à jour)
 
 - **Variable d'environnement** : 
 	Information stockée par le système d’exploitation et accessible aux programmes pendant leur exécution. Elle permet de configurer le comportement d’une application sans modifier son code
@@ -149,6 +328,7 @@
 		- Une clé secrète → `API_KEY=abc123`
 		- Les identifiants d’une base de données → `DB_HOST`, `DB_USER`, etc.
 
+<<<<<<< HEAD
 
 
 - **WPF**: 
@@ -162,3 +342,16 @@
 	- Forward proxy → protège le client
 	- Reverse proxy → protège le serveur
 	- Peut accélérer, sécuriser et répartir le trafic
+=======
+- **Versionning :**
+	Le versioning est l'enregistrement de chaque modification apportée à un ou plusieurs fichiers. Il joue un rôle crucial dans la gestion des projets, en particulier dans les domaines du développement logiciel et du design 	numérique.
+---
+# -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ W _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+--- 
+
+- **WPF**: 
+	Windows Présentation Foundation (WPF) (nom de code Avalon) est la spécification graphique de Microsoft . NET 3.0. Il intègre le langage descriptif *XAML* qui permet de l'utiliser d'une manière proche d'une page *HTML* pour les développeurs.()
+
+
+
+>>>>>>> 706cd06 (mise à jour)
