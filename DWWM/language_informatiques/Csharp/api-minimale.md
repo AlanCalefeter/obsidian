@@ -50,7 +50,7 @@ public class Todo
     public bool IsComplete { get; set; }
 }
 ```
-- Un _modèle_ est un ensemble de classes qui représentent les données gérées par l’application.
+- Un _modèle_ est un ensemble de classes qui représentent les données gérées par l’application. coucou
 
 ## Création de base de données
 
